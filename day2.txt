@@ -1,0 +1,12 @@
+1. Write a blog on the Difference between document and window object
+
+Answer:
+      Window:
+            => Object represent the current browser.
+            => Provide an access to all the broswer API,DOM and console and js runtime.
+            => DOM that is help to maniplute the the HTML and CSS of web page.
+      Object:
+            => Object present inside the window.
+            => Access the element in the HTML page.
+            => We can add dynamic content to our web page.
+            
